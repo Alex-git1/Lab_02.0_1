@@ -29,7 +29,7 @@ int main() {
         cout << "z1 = " << z1 << endl;
     }
 
-    z2 = (1 + sin(b) * sin(b)) / (cos(b) * cos(b));
+    /*z2 = (1 + sin(b) * sin(b)) / (cos(b) * cos(b));
     double denominator2 = (cos(b) * cos(b));
 
     if (denominator2 == 0) {
@@ -38,6 +38,6 @@ int main() {
     }
     else {
         cout << "z2 = " << z2 << endl;
+    }*/
         return 0;
-    }
 }
